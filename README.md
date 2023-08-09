@@ -16,7 +16,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/sahilkumardhal1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sahilkumardhal1" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/sahil kumar dhala" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sahil kumar dhala" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sahil kumar dhala" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sahil-kumar-dhala-23859320b" height="30" width="40" /></a>
 <a href="https://fb.com/sahilendra kumar dhala" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sahilendra kumar dhala" height="30" width="40" /></a>
 <a href="https://instagram.com/mr.sahilendra_kumar_dhala/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mr.sahilendra_kumar_dhala/" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/@mercurygameryt9956" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@mercurygameryt9956" height="30" width="40" /></a>
