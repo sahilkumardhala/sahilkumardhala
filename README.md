@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **sahildhala123@gmail.com**
 
-- 📄 Know about my experiences [Sahil Kumar Dhala_Btech_cse_2023p-1-1.docx](Sahil Kumar Dhala_Btech_cse_2023p-1-1.docx)
+- 📄 Know about my experiences https://drive.google.com/file/d/1lFFLF8Q_9oYbLz49ht0D32xTSF0y5TOS/view?usp=drive_link
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
