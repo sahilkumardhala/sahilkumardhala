@@ -5,15 +5,16 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sahilkumardhala" alt="sahilkumardhala" /></a> </p>
 
+<img align="right" alt="coding" width="500" src="https://media0.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif">
 <p align="left"> <a href="https://twitter.com/sahilkumardhal1" target="blank"><img src="https://img.shields.io/twitter/follow/sahilkumardhal1?logo=twitter&style=for-the-badge" alt="sahilkumardhal1" /></a> </p>
 
-- 🌱 I’m currently learning **JAVASCRIPT, PYTHON, MY SQL**
+- 🌱 I’m currently learning **JAVASCRIPT, DJANGO**
 
-- 💬 Ask me about **HTML, CSS**
+- 💬 Ask me about **PYTHON, HTML, CSS, SQL+**
 
 - 📫 How to reach me **sahildhala123@gmail.com**
 
-- 📄 Know about my experiences https://drive.google.com/file/d/1lFFLF8Q_9oYbLz49ht0D32xTSF0y5TOS/view?usp=drive_link
+- 📄 Know about my experiences [MY CV](https://drive.google.com/file/d/1lFFLF8Q_9oYbLz49ht0D32xTSF0y5TOS/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -33,3 +34,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sahilkumardhala&show_icons=true&locale=en" alt="sahilkumardhala" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sahilkumardhala&" alt="sahilkumardhala" /></p>
+<p><img hight="auto" width="auto" src="https://www.lambdatest.com/resources/images/news24.gif" alt="coding"></p>
