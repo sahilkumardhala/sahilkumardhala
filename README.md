@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm [Sahil Kumar Dhala](https://sahilkumardhala.github.io/sahilkumardhala/)</h1>
+<h1 align="center">Hi 👋, I'm Sahil Kumar Dhala.</h1>
 <h3 align="center">I am Python Full-Stack Developer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sahilkumardhala&label=Profile%20views&color=0e75b6&style=flat" alt="sahilkumardhala" /> </p>
