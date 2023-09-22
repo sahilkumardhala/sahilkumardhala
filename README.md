@@ -8,15 +8,17 @@
 <img align="right" alt="coding" width="500" src="https://media0.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif">
 <p align="left"> <a href="https://twitter.com/sahilkumardhal1" target="blank"><img src="https://img.shields.io/twitter/follow/sahilkumardhal1?logo=twitter&style=for-the-badge" alt="sahilkumardhal1" /></a> </p>
 
+- 🔭 I’m currently working on **[Some Basic project.](https:/sahilkumardhala.github.io/sahilkumardhala/)**
+
 - 🌱 I’m currently learning **JAVASCRIPT, DJANGO**
 
-- 💬 Ask me about **PYTHON, HTML, CSS, SQL+**
+- 💬 Ask me about **HTML, CSS, PYTHON, SQL+**
   
-- 👨‍💻 All of my projects are available at [Portfolio](https://sahilkumardhala.github.io/sahilkumardhala/)
+- 👨‍💻 All of my projects are available at **[Portfolio](https://sahilkumardhala.github.io/sahilkumardhala/)**
   
 - 📫 How to reach me **sahildhala123@gmail.com**
 
-- 📄 Know about my experiences [SahilKumarDhala.Resume](https://drive.google.com/file/d/1lFFLF8Q_9oYbLz49ht0D32xTSF0y5TOS/view?usp=drive_link)
+- 📄 Know about my experiences **[ResumeSahil.com](https://drive.google.com/file/d/1lFFLF8Q_9oYbLz49ht0D32xTSF0y5TOS/view?usp=drive_link)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -36,6 +38,9 @@
 
 <!--<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sahilkumardhala&" alt="sahilkumardhala" /></p>-->
 
+![#🔝Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=sahilkumardhala&limit=5&theme=flat&combine_all_yearly_contributions=true)
+
 <img src="https://github-stats-alpha.vercel.app/api?username=sahilkumardhala&cc=2e3440&tc=fff&ic=fff&bc=gray" alt="sahilkumardhala" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sahilkumardhala&theme=nord_dark" width="100%" alt="sahilkumardhala"/>
+
 <p><img hight="auto" width="auto" src="https://camo.githubusercontent.com/fa73289736064aba480d0708da37d7aa183a8c3e2bcc2f58c54285a3bbbeecc1/68747470733a2f2f7777772e61616c7068612e6e65742f77702d636f6e74656e742f75706c6f6164732f323032302f31322f66756c6c2d737461636b2d646576656c6f706d656e742e676966" alt="coding"></p>
