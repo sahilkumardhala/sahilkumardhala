@@ -39,6 +39,9 @@
 <!--<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sahilkumardhala&" alt="sahilkumardhala" /></p>-->
 
 ![#🔝Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=sahilkumardhala&limit=5&theme=flat&combine_all_yearly_contributions=true)
+<strong>🏆 Dooboo lab's github stats</strong>
+
+<a href="https://stats.hyochan.dev/en/stats/sahilkumardhala"><img src="https://stats.hyochan.dev/api/github-stats?login=sahilkumardhala" width="600" /></a>
 
 <img src="https://github-stats-alpha.vercel.app/api?username=sahilkumardhala&cc=2e3440&tc=fff&ic=fff&bc=gray" alt="sahilkumardhala" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sahilkumardhala&theme=nord_dark" width="100%" alt="sahilkumardhala"/>
