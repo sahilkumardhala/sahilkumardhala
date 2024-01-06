@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **HTML, CSS, PYTHON, SQL+**
   
-- 👨‍💻 All of my projects are available at **[Portfolio](https://sahilkumardhala.github.io/sahilkumardhala/)**
+- 👨‍💻 All of my projects are available at **[Portfolio](https://sahilkumardhala.github.io/sahilkumardhala.in/)**
   
 - 📫 How to reach me **sahildhala123@gmail.com**
 
