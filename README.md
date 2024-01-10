@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sahil Kumar Dhala.</h1>
+<h1 align="center">Hi 👋, I'm <a href="https://sahilkumardhala-advance-portfolio.vercel.app/">Sahil Kumar Dhala</a>.</h1>
 <h3 align="center">I am Python Full-Stack Developer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sahilkumardhala&label=Profile%20views&color=0e75b6&style=flat" alt="sahilkumardhala" /> </p>
@@ -10,9 +10,9 @@
 
 - 🔭 I’m currently working on **[Some Basic project.](https://github.com/sahilkumardhala?tab=repositories)**
 
-- 🌱 I’m currently learning **JAVASCRIPT, DJANGO**
+- 🌱 I’m currently learning **DJANGO**
 
-- 💬 Ask me about **HTML, CSS, PYTHON, SQL+**
+- 💬 Ask me about **HTML, CSS, PYTHON, SQL+,JAVASCRIPT**
   
 - 👨‍💻 All of my projects are available at **[PORTFOLIO](https://sahilkumardhala-advance-portfolio.vercel.app/)**
   
