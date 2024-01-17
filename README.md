@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **HTML, CSS, PYTHON, SQL+,JAVASCRIPT**
   
-- 👨‍💻 All of my projects are available at **[PORTFOLIO](https://sahilkumardhala-advance-portfolio.vercel.app/)**
+- 👨‍💻 All of my projects are available at **[PORTFOLIO](https://sahil-kumar-dhala-portfolio.vercel.app/)**
   
 - 📫 How to reach me **sahildhala123@gmail.com**
 
