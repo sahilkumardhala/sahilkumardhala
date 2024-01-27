@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **[Some Basic project.](https://github.com/sahilkumardhala?tab=repositories)**
 
-- 🌱 I’m currently learning **DJANGO**
+- 🌱 I’m currently learning **DJANGO** , **React js**, **Node.js**
 
 - 💬 Ask me about **HTML, CSS, PYTHON, SQL+,JAVASCRIPT**
   
