@@ -8,17 +8,17 @@
 <img align="right" alt="coding" width="500" src="https://media0.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif">
 <p align="left"> <a href="https://twitter.com/sahilkumardhal1" target="blank"><img src="https://img.shields.io/twitter/follow/sahilkumardhal1?logo=twitter&style=for-the-badge" alt="sahilkumardhal1" /></a> </p>
 
-- 🔭 I’m currently working on **[My Repositories.](https://github.com/sahilkumardhala?tab=repositories)**
+- 🔭 I’m currently working on 🔗 **[My Repositories.](https://github.com/sahilkumardhala?tab=repositories)**
 
 - 🌱 I’m currently learning **"React.js", "Node.js"**
 
 - 💬 Ask me about **"HTML", "CSS", "JAVASCRIPT", "PYTHON", "Django", "SQL+"**
   
-- 👨‍💻 All of my projects are available at **[PORTFOLIO](https://sahil-kumar-dhala-portfolio.vercel.app/)**
+- 👨‍💻 All of my projects are available at 🔗 **[PORTFOLIO](https://sahil-kumar-dhala-portfolio.vercel.app/)**
   
 - 📫 How to reach me **sahildhala123@gmail.com**
 
-- 📄 Know about my experiences **[ResumeSahil.com](https://drive.google.com/file/d/1lFFLF8Q_9oYbLz49ht0D32xTSF0y5TOS/view?usp=drive_link)**
+- 📄 Know about my experiences 🔗 **[Resume.Sahil](https://drive.google.com/file/d/1lFFLF8Q_9oYbLz49ht0D32xTSF0y5TOS/view?usp=drive_link)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
