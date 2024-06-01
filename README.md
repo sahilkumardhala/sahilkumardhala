@@ -8,11 +8,11 @@
 <img align="right" alt="coding" width="500" src="https://media0.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif">
 <p align="left"> <a href="https://twitter.com/sahilkumardhal1" target="blank"><img src="https://img.shields.io/twitter/follow/sahilkumardhal1?logo=twitter&style=for-the-badge" alt="sahilkumardhal1" /></a> </p>
 
-- 🔭 I’m currently working on **[Some Basic project.](https://github.com/sahilkumardhala?tab=repositories)**
+- 🔭 I’m currently working on **[My Repositories.](https://github.com/sahilkumardhala?tab=repositories)**
 
-- 🌱 I’m currently learning **DJANGO** , **React js**, **Node.js**
+- 🌱 I’m currently learning **"React.js", "Node.js"**
 
-- 💬 Ask me about **HTML, CSS, PYTHON, SQL+,JAVASCRIPT**
+- 💬 Ask me about **"HTML", "CSS", "JAVASCRIPT", "PYTHON", "Django", "SQL+"**
   
 - 👨‍💻 All of my projects are available at **[PORTFOLIO](https://sahil-kumar-dhala-portfolio.vercel.app/)**
   
