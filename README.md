@@ -48,4 +48,6 @@
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sahilkumardhala&theme=nord_dark" width="100%" alt="sahilkumardhala"/>
 <!--
 <p><img hight="auto" width="auto" src="https://camo.githubusercontent.com/fa73289736064aba480d0708da37d7aa183a8c3e2bcc2f58c54285a3bbbeecc1/68747470733a2f2f7777772e61616c7068612e6e65742f77702d636f6e74656e742f75706c6f6164732f323032302f31322f66756c6c2d737461636b2d646576656c6f706d656e742e676966" alt="coding"></p>-->
-<p><img hight="auto" width="auto" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZW9oYWdkMjhzdG85NGZ1bXd1a2xrYzVsb2tnYmNqNmRrdjFpc3g3ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.webp" alt="coding"></p>
+<p><img hight="auto" width="auto" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZW9oYWdkMjhzdG85NGZ1bXd1a2xrYzVsb2tnYmNqNmRrdjFpc3g3ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.webp" alt="coding"> <img hight="auto" width="auto" align="right" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXZxcGpibHhiaWY4NzFsNWdjcjZ5cWppMG5nYjEyNGYwNzRwOXFlNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/u1WhXLjwgcXpHJBMRM/giphy.webp" alt="coding"></p>
+<p></p>
+
